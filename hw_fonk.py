@@ -1,4 +1,4 @@
-# Fonksiyonlar Ödevi
+#Fonksiyonlar Ödevi
 
 # 1️⃣ Hesap Makinesi Fonksiyonu
 def hesap_makinesi(a, b):
